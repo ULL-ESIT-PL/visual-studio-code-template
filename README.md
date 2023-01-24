@@ -1,4 +1,4 @@
-# visual-studio-code-jaime-armas-rivero-alu0101329093
+# visual-studio-code-template
 
 ## Explicaciones de la tarea
 
